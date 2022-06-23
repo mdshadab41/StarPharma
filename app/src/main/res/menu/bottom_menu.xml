@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/btm_home"
+            android:icon="@drawable/ic_home"
+            tools:ignore="MenuTitle" />
+        <item
+            android:id="@+id/btm_pin_drop"
+            android:icon="@drawable/ic_pin_drop"
+            tools:ignore="MenuTitle" />
+
+        <item
+            android:id="@+id/btm_shopping_cart"
+            android:icon="@drawable/ic_shopping_cart"
+            tools:ignore="MenuTitle" />
+        <item
+            android:id="@+id/btm_order_track"
+            android:icon="@drawable/ic_order_track"
+            tools:ignore="MenuTitle" />
+    </group>
+</menu>

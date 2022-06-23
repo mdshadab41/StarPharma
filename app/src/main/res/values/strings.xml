@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">StarPharma</string>
+
+
+    //Headings
+    <string name="heading_one">View &amp; Buy Medicine Online</string>
+    <string name="heading_two">Save Your Time With Us</string>
+    <string name="heading_three">We Provide Home Delivery</string>
+
+
+    // Create account
+    <string name="text1">Start by Creating an</string>
+    <string name="text2">account.</string>
+
+
+    //navigation drawer
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="filterHint">filterHint</string>
+
+
+</resources>
